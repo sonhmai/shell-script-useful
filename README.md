@@ -1,2 +1,2 @@
-# shell-script-awesome
-Useful shell, bash scripts
+# Useful shell, bash scripts
+
